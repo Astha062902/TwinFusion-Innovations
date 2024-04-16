@@ -41,6 +41,12 @@
   </li>
 </ol>
 
+<!-- Project Interface -->
+
+<h2> Project Interface </h2>
+ <li>
+    <strong>Homepage</strong>
+
 <!-- Use Cases -->
 
 <h2> Use Cases </h2>
